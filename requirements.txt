@@ -1,0 +1,15 @@
+torch
+transformers
+peft
+sentence-transformers
+datasets
+vllm
+faiss-cpu
+ir_datasets
+rank_bm25
+pandas
+numpy
+tqdm
+python-dotenv
+langdetect
+matplotlib
